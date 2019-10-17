@@ -1,0 +1,28 @@
+{
+  "name": "@skirix/react-native-interaction-analytics",
+  "version": "1.0.0",
+  "description": "Analytics tool for all kind of interaction in your React-Native App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturGr/react-native-interaction-analytics.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "interaction",
+    "analytics",
+    "firebase",
+    "library"
+  ],
+  "author": "Artur Gräfenstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArturGr/react-native-interaction-analytics/issues"
+  },
+  "homepage": "https://github.com/ArturGr/react-native-interaction-analytics#readme"
+}
